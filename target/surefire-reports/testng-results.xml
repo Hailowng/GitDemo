@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-06-06T15:11:39Z" name="Suite" finished-at="2021-06-06T15:11:39Z" duration-ms="37">
+    <groups>
+    </groups>
+    <test started-at="2021-06-06T15:11:39Z" name="Test" finished-at="2021-06-06T15:11:39Z" duration-ms="37">
+      <class name="Test.Mavenjava.AppiumTest">
+        <test-method signature="IOSApp()[pri:0, instance:Test.Mavenjava.AppiumTest@3c73951]" started-at="2021-06-06T15:11:39Z" name="IOSApp" finished-at="2021-06-06T15:11:39Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- IOSApp -->
+        <test-method signature="NativeApp()[pri:0, instance:Test.Mavenjava.AppiumTest@3c73951]" started-at="2021-06-06T15:11:39Z" name="NativeApp" finished-at="2021-06-06T15:11:39Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NativeApp -->
+      </class> <!-- Test.Mavenjava.AppiumTest -->
+      <class name="Test.Mavenjava.SeleniumTest">
+        <test-method signature="Browserauto()[pri:0, instance:Test.Mavenjava.SeleniumTest@4bb33f74]" started-at="2021-06-06T15:11:39Z" name="Browserauto" finished-at="2021-06-06T15:11:39Z" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browserauto -->
+        <test-method signature="elementsUI()[pri:0, instance:Test.Mavenjava.SeleniumTest@4bb33f74]" started-at="2021-06-06T15:11:39Z" name="elementsUI" finished-at="2021-06-06T15:11:39Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- Test.Mavenjava.SeleniumTest -->
+      <class name="Test.Mavenjava.RestAPITest">
+        <test-method signature="deleteTwitter()[pri:0, instance:Test.Mavenjava.RestAPITest@759d26fb]" started-at="2021-06-06T15:11:39Z" name="deleteTwitter" finished-at="2021-06-06T15:11:39Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method signature="postJIRA()[pri:0, instance:Test.Mavenjava.RestAPITest@759d26fb]" started-at="2021-06-06T15:11:39Z" name="postJIRA" finished-at="2021-06-06T15:11:39Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJIRA -->
+      </class> <!-- Test.Mavenjava.RestAPITest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
